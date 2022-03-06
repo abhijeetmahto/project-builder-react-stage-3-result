@@ -1,0 +1,23 @@
+#heading{
+    font-size: 50px;
+    margin-top:400px;
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    font-family: 'Mukta', sans-serif;
+}
+#playbtn{
+    font-size: 20px;
+    color: white;
+    background-color: rgb(158, 211, 78);
+    border-radius: 30px;
+    padding: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+    padding-right: 80px;
+    cursor: pointer;
+    font-weight: 100;
+    font-family: 'Mukta', sans-serif;
+}
+#playbtn:hover{background-color:green;}

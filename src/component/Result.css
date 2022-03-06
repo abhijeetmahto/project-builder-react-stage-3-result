@@ -1,0 +1,57 @@
+.box {
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background: #f8f8f8;
+    color: black;
+    width: 45vw;
+    position: relative;
+    margin:auto;
+    margin-top: 60px;
+  }
+  .head{
+      color: rgb(2, 179, 2);
+      font-size: 40px;
+      font-weight:400;
+      font-family: 'Mukta', sans-serif;
+  }
+  .details{
+    display: flex;
+    width: 40vw;
+    justify-content: space-between;
+    font-family: 'Mukta', sans-serif;
+  }
+  .score{
+      color: rgb(13, 128, 167);
+      font-weight: 400;
+      font-family: 'Mukta', sans-serif;
+  }
+  .feed{
+      font-weight: 400;
+      font-family: 'Mukta', sans-serif;
+  }
+  .btn{
+      display: flex;
+      justify-content: space-around;
+      margin-left: 800px;
+      margin-right: 800px;
+      margin-top: 30px;
+  }
+  .btn button{
+      border-radius: 0;
+      background: transparent;
+      cursor: pointer;
+      height: 4vh;
+      width: 8vw;
+  }
+  .btn button:hover{background: rgb(223, 223, 223);}
+  .pbtn{
+      border: 3px solid rgb(126, 126, 245);
+      color: rgb(126, 126, 245);
+  }
+  .hbtn{
+      border: 3px solid rgb(49, 209, 49);
+      color: rgb(49, 209, 49);
+  }

@@ -1,64 +1,70 @@
+# Getting Started with Create React App
 
-![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# ProGrad PROJECT BUILDER | REACT - QUIZ STAGE II - DYNAMIC RENDER
+## Available Scripts
 
-## Learning Goals
+In the project directory, you can run:
 
-In this exercise, the goal is to learn building a complete quiz app on a stage by stage basis:
+### `npm start`
 
-- props and state,
-- how to work with event handlers.
-- work with maps and filters
-- work with json object.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Getting started
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-1. Fork this repo
-2. Clone this repo
+### `npm test`
 
-Whenever you create a first significant change, you should make your first commit.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-3. Follow these [guidelines to add, commit and push changes](https://github.com/FACEPrep-ProGrad/general-guidelines-labs-project-builders.git).
+### `npm run build`
 
-In the end of this document, you will find guidelines on how to submit the exercise.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Introduction
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-We will continue to improve our code from where we left previously. We will work on the Quiz component today. We will calculate the scores and display in the result component. 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-**Note: use rcc to generate the code template.**.  
+### `npm run eject`
 
-So let's get started!
-Check below to see the overall output: You will be trying to replicate this
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-![Image description](https://i1.faceprep.in/ProGrad/quizfulloutput.gif)
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### PROGRESSION 1 | SCORE TIME
-Your task in this iteration is to complete the scores and pass it to result component to display as per the screenshot given below.
-![Image description](https://i1.faceprep.in/ProGrad/q3.PNG)
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-### PROGRESSION 2 | SHOW RIGHT OR SHOW WRONG
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-Your task in this iteration to show whether the answer you chose is right or wrong. You can see the overall output for reference.
+## Learn More
 
-### PROGRESSION 3 | REDIRECT
-Once the quiz is complete or when the user selects quiz redirect to result page and show the scores.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-### PROGRESSION 4 | ROUTING
-Complete all the routing part.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Submission
+### Code Splitting
 
-If you didn't add, commit and push the changes you made, this is the last call. :smile:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-please share your github links with your Mentors. Your Mentor's will check up your work and provide feedback. 
+### Analyzing the Bundle Size
 
-## Summary
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-If you managed to do it, good job! :trophy:
+### Making a Progressive Web App
 
-We are proud of you!
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-Happy Coding ProGrad ❤️!
+### Advanced Configuration
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

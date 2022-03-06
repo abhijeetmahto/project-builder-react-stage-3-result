@@ -1,0 +1,88 @@
+.box {
+    border: solid blue;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background: #f8f8f8;
+    color: black;
+    width: 80vw;
+    position: relative;
+    border: 5px solid #1da1f2;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    margin:auto;
+    margin-top: 90px;
+  }
+  .box h1{
+    font-size: 4em;
+    font-weight: 100;
+    font-family: 'Mukta', sans-serif;
+  }
+  .quesNo {
+    position: absolute;
+    top: 10vh;
+    left: 5vh;
+    font-weight: 100;
+    font-family: 'Mukta', sans-serif;
+  }
+  .tim{
+    position: absolute;
+    top: 10vh;
+    right: 5vh;
+    font-weight: 100;
+    font-family: 'Mukta', sans-serif;
+  }
+  .QueData {
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    font-weight: 100;
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+  }
+
+  .options {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-gap:25px;
+  }
+  
+  .options button {
+    width: 20vw;
+    background: #1da1f2;
+    padding:20px;
+    color: white;
+    border-radius: 30px;
+    font-weight: 100;
+    font-family: 'Mukta', sans-serif;
+  }
+  .bottom {
+    display: flex;
+    width: 47vw;
+    justify-content: space-evenly;
+  }
+  
+  .bottom button {
+    border-radius: 0;
+    height: 6vh;
+    width: 10vw;
+    box-shadow: 2px 4px 13px 0px #00000059;
+    color: white;
+    font-weight: 100;
+    font-family: 'Mukta', sans-serif;
+    margin-top: 90px;
+  }
+
+  .bottom button:nth-child(1) {
+    background: #0c85d0;
+  }
+  .bottom button:nth-child(2) {
+    background: rgb(128, 190, 34);
+  }
+  .bottom button:nth-child(3) {
+    background: #ea4355;
+  }

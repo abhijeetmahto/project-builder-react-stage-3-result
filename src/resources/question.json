@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+    {
+        "question": "The nucleus of an atom consists of",
+        "optionA": "electrons and neutrons",
+        "optionB": "electrons and protons",
+        "optionC": "protons and neutrons",
+        "optionD": "All of the above",
+        "answer": "protons and neutrons"
+    },
+    {
+        "question": "The most electronegative element among the following is",
+        "optionA": "sodium",
+        "optionB": "bromine",
+        "optionC": "fluorine",
+        "optionD": "oxygen",
+        "answer": "fluorine"
+    },
+    {
+        "question": "Which of the following is not a type of constructor?",
+        "optionA": "Copy constructor",
+        "optionB": "Friend constructor",
+        "optionC": "Default constructor",
+        "optionD": "Parameterized constructor",
+        "answer": "Friend constructor"
+    },
+    {
+        "question": "The first death anniversary day of Sri Rajiv Gandhi was observed as the",
+        "optionA": "National Integration Day",
+        "optionB": "Peace and Love Day",
+        "optionC": "Secularism Day",
+        "optionD": "Anti-Terrorism Day",
+        "answer": "Anti-Terrorism Day"
+    },
+    {
+        "question": "January 15 is celebrated as the",
+        "optionA": "Republic Day",
+        "optionB": "Ugadhi",
+        "optionC": "Teachers' Day",
+        "optionD": "Army Day",
+        "answer": "Army Day"
+    },
+    {
+        "question": "'Teacher's Day' is observed on which of the date?",
+        "optionA": "September 5",
+        "optionB": "January 30",
+        "optionC": "November 14",
+        "optionD": "October 2",
+        "answer": "September 5"
+    },
+    {
+        "question": "The World Environment Day is celebrated on",
+        "optionA": "April 7",
+        "optionB": "June 5",
+        "optionC": "August 6",
+        "optionD": "June 16",
+        "answer": "June 5"
+    },
+    {
+        "question": "Who invented the BALLPOINT PEN?",
+        "optionA": "Biro Brothers",
+        "optionB": "Waterman Brothers",
+        "optionC": "Bicc Brothers",
+        "optionD": "Write Brothers",
+        "answer": "Biro Brothers"
+    },
+    {
+        "question": "Which scientist discovered the radioactive element radium?",
+        "optionA": "Isaac Newton",
+        "optionB": "Albert Einstein",
+        "optionC": "Benjamin Franklin",
+        "optionD": "Marie Curie",
+        "answer": "Marie Curie"
+    }
+]
